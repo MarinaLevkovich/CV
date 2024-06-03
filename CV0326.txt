@@ -1,0 +1,84 @@
+{
+  "name": "Marina",
+  "lastName": "Levkovich",
+  "location":["Minsk","Smolensk"],
+  "position":"Software Testing Engineer",
+  "contacts": 
+    [{
+    "phoneNumber":["+79525371250","+375257239573"]
+    },
+    {
+	"email":"marinalevkovich493@gmail.com"
+    }],
+  "education": 
+    [{
+    "name": "MSLU",
+    "graduationYear": 2021,
+    "specialization": "English teacher"
+    },
+	{
+	"name":"Institute of Management and Law",
+	"graduationYear": 2011,
+	"specialization": "economist"
+	}],
+  "postEducation":
+    [{
+    "name":"BELHARD group",
+	"graduationYear": 2023,
+	"specialization": "Software Testing Engineer, basic level"
+	},
+	{
+	"name":"IT Academy",
+	"graduationYear": 2022,
+	"specialization":"Project Manager"
+	}],
+	"experience":
+	[{
+	"year":"2020-2024",
+	"position":"English teacher"
+	},
+	{
+	"year":"2010-2020",
+	"position":"accountant"
+	}],
+	"hardSkills": [
+    {
+    "name": "1C",
+    "details": "working with all types of documentation"
+    },
+	{
+    "name": "Jira",
+    "level": "starter",
+    "details": "working with reports and planning"
+	},
+	{
+	"name": "SQL",
+    "level": "starter",
+    "details": "in the process of learning",
+    "link": "https://github.com/MarinaLevkovich/Test-doc"
+    },
+	{
+	"name": "GIT",
+    "level": "starter",
+    "details": "in the process of learning",
+    "link": "https://github.com/MarinaLevkovich/Test-doc"
+	}],
+	"languages":[
+	{
+	"language":"Russian",
+	"level":"C2"
+	},
+	{
+    "language":"Belarusian",
+	"level":"C2"
+	},
+	{
+	 "language":"English",
+	"level":"C1"
+	},
+	{
+    "language":"French",
+	"level":"starter"
+	}],
+	"hobbies": ["studying","yoga","reading"]
+	}
